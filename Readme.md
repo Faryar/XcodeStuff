@@ -6,9 +6,9 @@ This repository contains a handful of scripts, themes and other useful materials
 
 ### Themes
 
-#### Faryar Theme 
+#### Obsidian Xcode Theme 
 
-This theme is a slighly different version of Obsidian Code.
+This is my (slightly modified) version of Obsidian Code
 
 ![image](http://s28.postimg.org/z1buiell9/Instructor_Mate_xcworkspace_DDFile_Logger_m.jpg)
 #### Installation
