@@ -8,7 +8,7 @@ This repository contains a handful of scripts, themes and other useful materials
 
 #### Faryar Theme 
 
-This theme is based on ObsidianCode by Ben Sheirman.
+This theme is a slighly different version of Obsidian Code.
 
 ![image](http://s28.postimg.org/z1buiell9/Instructor_Mate_xcworkspace_DDFile_Logger_m.jpg)
 #### Installation
